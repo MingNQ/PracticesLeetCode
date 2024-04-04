@@ -26,6 +26,6 @@ class Solution {
 int main() {
 	Solution s;
     cout << s.isIsomorphic("paper", "title");
-
+    cout << "Done";
     return 0;
 }
